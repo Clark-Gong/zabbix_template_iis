@@ -1,6 +1,6 @@
-# zabbix_template_iis
-# description: Zabbix template about IIS
-# Version: 20170626
+# Zabbix_template_iis
+# Description: Zabbix template about IIS
+# Note: Based on Zabbix 3.0.X
 1、Place the file （LLD_Web_Service.bat） in the root directory of the C drive,
 
 2、Open the zabbix client configuration file:zabbix_agentd.win.conf,Then add the following at the end of the file：
